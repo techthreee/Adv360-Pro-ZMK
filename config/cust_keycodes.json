@@ -1,0 +1,19 @@
+[
+	{
+		"names": [
+			"72297373329Ch238909ch"
+		],
+		"description": "72297373329Ch238909ch",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
